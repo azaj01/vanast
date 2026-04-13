@@ -30,7 +30,6 @@ Seoul National University
 - [x] Release project page
 - [x] Release arXiv paper
 - [ ] Release inference code & pretrained weights (May 2026)
-- [ ] Release training code
 - [ ] Release Gradio demo
 
 ## Abstract
