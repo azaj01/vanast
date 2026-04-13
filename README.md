@@ -17,7 +17,7 @@
 
 https://github.com/user-attachments/assets/placeholder
 
-https://hyunsoocha.github.io/vanast/static/images/teaser/teaser.m4v
+[https://hyunsoocha.github.io/vanast/static/images/teaser/teaser.m4v](https://github.com/user-attachments/assets/7a8954cf-dc4d-45f4-afdc-3bdf2e1996de)
 
 </div>
 
